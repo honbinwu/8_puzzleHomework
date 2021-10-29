@@ -10,4 +10,4 @@ step3:python3 8_puzzleHomework.py
 
 ## Get the following result
 ![image](https://github.com/honbinwu/8_puzzleHomework/blob/main/Execution_screen1.png)
-![image](https://github.com/honbinwu/8_puzzleHomework/blob/main/Execution_screen2.png)
+  ![image](https://github.com/honbinwu/8_puzzleHomework/blob/main/Execution_screen2.png)
