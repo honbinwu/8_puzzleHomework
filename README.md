@@ -9,4 +9,4 @@ step2:cd 8_puzzleHomework/
 step3:python3 8_puzzleHomework.py
 
 ## Get the following result
-![image]()
+![image](https://github.com/honbinwu/8_puzzleHomework/blob/main/Execution_screen1.png)
