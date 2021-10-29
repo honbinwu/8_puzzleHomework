@@ -1,4 +1,4 @@
 # 8_puzzleHomework
-test
 
 ## How to execute
+step1:git clone 
