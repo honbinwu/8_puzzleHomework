@@ -14,3 +14,4 @@ step3:python3 8_puzzleHomework.py
 
 ## Shuffle function turned on
 You can use it by deleting the comment on line 389
+![image](https://github.com/honbinwu/8_puzzleHomework/blob/main/shuffle.png)
