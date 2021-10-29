@@ -2,7 +2,7 @@
 
 ## How to execute in the terminal
 
-step1:git clone https://github.com/honbinwu/8_puzzleHomework.gits
+step1:git clone https://github.com/honbinwu/8_puzzleHomework.git
 
 step2:cd 8_puzzleHomework/
 
